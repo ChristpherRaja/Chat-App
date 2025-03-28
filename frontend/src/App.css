@@ -1,0 +1,14 @@
+.sending-message{
+  background-color: blueviolet;
+  color: white;
+}
+
+.receiving-message{
+  background-color: rgb(245, 242, 242);
+  border:none;
+}
+
+.message-box{
+  top:85%;
+
+}
